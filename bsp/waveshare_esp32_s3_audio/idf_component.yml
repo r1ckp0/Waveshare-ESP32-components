@@ -15,6 +15,8 @@ dependencies:
     version: "*"
     public: true
 
+  espressif/esp_io_expander: 
+    version: "*"
 
   espressif/esp_lvgl_port:
     version: "^2"
